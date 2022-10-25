@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "eid": 1,
+      "email": "essolayk@yahoo.fr",
+      "gender": "male",
+      "position": "Angular developer",
+      "address": "bourbonnais",
+      "name": "Essola yannick",
+      "mobile": 753323997,
+      "salary": 300,
+      "id": 1
+    },
+    {
+      "eid": 1083,
+      "email": "ngamesi@yahoo.com",
+      "gender": "female",
+      "name": "Ngamesi",
+      "address": "Drancy",
+      "position": "Angular developer",
+      "mobile": 399373973,
+      "salary": 300,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
